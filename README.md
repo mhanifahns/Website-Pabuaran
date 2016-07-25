@@ -1,15 +1,15 @@
 # Website-Pabuaran
 
-How to install 
+How to install :
 <br>
 <br>
-Clone the site https://github.com/mhanifahns/Website-Pabuaran.git
+1. Clone the site https://github.com/mhanifahns/Website-Pabuaran.git
 <br>
-Make the database name website
+2. Make the database name website
 <br>
-import the database
+3. import the database
 <br>
-to access admin use /admin
+4. to access admin use /admin
 <br>
 id:admin
 <br>
